@@ -1,0 +1,36 @@
+#main{
+    background-color:#eee;;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    color:#333;
+}
+#title{
+    text-align: center;
+}
+#img-div{
+    background-color:white;
+}
+#image{
+    display:block;
+    margin:auto;
+    max-width: 100%;
+    width:800px;
+}
+#img-caption{
+    text-align: center;
+    font-size: smaller;
+    padding-bottom: 1em;
+}
+#tribute-info{
+    word-wrap:normal;
+    width:85%;
+    max-width:600px;
+    margin: auto;
+    padding:1em 20px;
+}
+
+ul{
+    padding-left:inherit;
+}
+ul li {
+    margin:0 0 1em 0;
+}
